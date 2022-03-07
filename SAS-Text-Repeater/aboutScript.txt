@@ -1,0 +1,4 @@
+
+This java based script allows to repeatedly enter a String/Text to a .txt file based on the number of times you want.
+
+The executables requires Java jdk 8+

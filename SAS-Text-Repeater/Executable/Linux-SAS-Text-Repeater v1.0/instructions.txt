@@ -1,0 +1,11 @@
+Instructions to run SAS-Text-Repeater
+
+1. Download and install all of the requirements and dependencies mentioned in "requirements.txt" file
+2. give execute permission to "text-repeater" using the following command
+    
+    $sudo chmod +x text-repeater
+
+3. Execute "text-repeater" to run program
+    
+   $./text-repeater
+
