@@ -2,3 +2,5 @@
 This java based script allows to repeatedly enter a String/Text to a .txt file based on the number of times you want.
 
 The executables requires Java jdk 8+
+
+When typing '\' (backward slash) anywhere in this program, do type it twice. (eg: D:\\test\\file.txt)
