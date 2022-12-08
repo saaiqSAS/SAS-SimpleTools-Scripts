@@ -1,0 +1,4 @@
+These are the requirements for SAS-Text-Repeater
+
+>Java JRE 17+
+ (https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html)

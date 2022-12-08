@@ -1,0 +1,5 @@
+Instructions to run SAS-DirectoryCrawler
+
+1. Download and install all of the requirements and dependencies mentioned in "requirements.txt" file
+2. open/execute the "directory-crawler-win.bat" for windows or "directory-crawler-linux" for linux file to start the program.
+   (In linux, make sure to give execute permission to the file via 'sudo chmod +x directory-crawler-linux')

@@ -1,0 +1,6 @@
+
+This java based script crawls through given paths and outputs the paths of all detected files.
+
+The executables requires Java jdk 17+
+
+Multiple paths can be given as input separating them with a ';' (semi colon)
